@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_13",
+  "package": "io.github.crepper710.no_f3.mixin",
+  "client": [
+    "MixinPlayer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "no_f3.mixin-refmap.json"
+}
