@@ -1,6 +1,6 @@
 {
   "required": true,
-  "compatibilityLevel": "JAVA_13",
+  "compatibilityLevel": "JAVA_8",
   "package": "io.github.crepper710.no_f3.mixin",
   "client": [
     "MixinPlayer"
